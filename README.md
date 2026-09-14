@@ -1,4 +1,4 @@
-# travelling_salesman_kenya
+# travelling_salesman_stadium
 
 Shortest-route planning for the 2026–27 Premier League's 20 stadiums, solved as an open-path
 travelling salesman problem (start fixed, no return leg), using great-circle distance.
